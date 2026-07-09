@@ -180,3 +180,18 @@ nav a{
 }
 
 }
+.notice{
+    background:#ff8c00;
+    color:#fff;
+    text-align:center;
+    padding:60px 20px;
+}
+
+.notice h2{
+    color:#fff;
+    margin-bottom:15px;
+}
+
+.notice p{
+    font-size:20px;
+}
